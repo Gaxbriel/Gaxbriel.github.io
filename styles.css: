@@ -30,22 +30,8 @@ function cambiarColor() {
     caja.style.backgroundColor = "#e74c3c";
     caja.innerHTML = "Color cambiado!";
 }
-Explicación:
 
-index.html:
 
-Crea una página HTML básica con un título, un botón y un div.
-Enlaza un archivo CSS llamado styles.css.
-Incluye un botón que llama a una función cambiarColor() cuando se hace clic.
-Incluye un div con una clase caja y un id caja.
-styles.css:
-
-Define estilos para el cuerpo del documento, el encabezado, el botón y la caja.
-También se especifica un color inicial para la caja.
-script.js:
-
-Contiene una función cambiarColor() que se ejecuta cuando se hace clic en el botón. Esta función cambia el color de fondo y el texto de la caja.
-Esta página muestra un ejemplo sencillo de cómo utilizar HTML, CSS y JavaScript juntos. Al cargarla en un navegador, verás un botón y una caja. Al hacer clic en el botón, el color de fondo de la caja cambiará y el texto se actualizará.
 
 
 
